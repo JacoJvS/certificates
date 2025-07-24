@@ -4,6 +4,13 @@ A collection of online courses and certifications I’ve completed to enhance my
 
 ---
 
+## 🎓 Academic Qualifications
+
+- **National Senior Certificate** – Hoërskool Pretoria-Noord *(Graduated 2019)*  
+  [View Certificate (PDF)](JJvanStaden_Matric_Certificate.pdf)
+
+---
+
 ## 🧠 Backend & Databases
 
 - **Django Web Framework** – Meta *(January 2025)*  
